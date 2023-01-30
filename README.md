@@ -21,7 +21,7 @@ e-mail: `admin@gmail.com`
 password: `123123`
 Enter any credentials and tap Sign Up button for login as a **staff**.
 
-## Screenshots from App
+## Screenshots from The App
 ![mainAct](https://user-images.githubusercontent.com/81313884/215366235-33ee499a-65ee-43ee-9475-17b2a5b15412.png)
 ![Screenshot_1674536495_google-pixel4-clearlywhite-portrait](https://user-images.githubusercontent.com/81313884/215366243-0c16a8ba-8e6f-4b41-b46a-043e0537674f.png)
 ![Screenshot_1674536601_google-pixel4-clearlywhite-portrait](https://user-images.githubusercontent.com/81313884/215366247-969c4d08-cf70-4456-b61e-e77100fab054.png)
