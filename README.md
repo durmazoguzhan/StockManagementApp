@@ -15,10 +15,10 @@ Kotlin Stock/Inventory Management App with Firebase
 Download and run this file to your device for testing this app: `debug/app-debug.apk`
 
 ## Login
-This app has 2 user types. These are **admin** and **staff**.
-You can login as an **admin** only using this credentials:
-e-mail: `admin@gmail.com`
-password: `123123`
+This app has 2 user types. These are **admin** and **staff**.<br>
+You can login as an **admin** only using this credentials:<br>
+e-mail: `admin@gmail.com`<br>
+password: `123123`<br>
 Enter any credentials and tap Sign Up button for login as a **staff**.
 
 ## Screenshots from The App
