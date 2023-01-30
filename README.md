@@ -12,7 +12,7 @@ Kotlin Stock/Inventory Management App with Firebase
 - [Mahozad Pie Chart](https://github.com/mahozad/android-pie-chart)
 
 ## Testing
-Download and run this file to your device for testing this app: `debug/app-debug.apk`
+Download and install this file to your device for testing this app: `debug/app-debug.apk`
 
 ## Login
 This app has 2 user types. These are **admin** and **staff**.<br>
